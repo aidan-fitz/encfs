@@ -3,6 +3,11 @@
 _Build Status_
  - Circle: [![Circle CI](https://circleci.com/gh/vgough/encfs.svg?style=svg)](https://circleci.com/gh/vgough/encfs)
 
+## Features I'm going to add
+
+- JSON or YAML config files (will be backwards compatible with XML)
+- GPU-based cryptography
+
 ## About
 
 EncFS provides an encrypted filesystem in user-space. It runs in userspace,

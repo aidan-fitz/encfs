@@ -7,6 +7,7 @@ _Build Status_
 
 - JSON or YAML config files (will be backwards compatible with XML)
 - GPU-based cryptography
+- adapt `--extpass` and `--stdinpass` options for `encfsctl passwd` (needs to accept old and new passwords)
 
 ## About
 
